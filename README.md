@@ -20,6 +20,6 @@
 
 
 
-![Entidades](https://github.com/devel-ez/CrontactsPerWorker/blob/master/entitiese1.png)
+![Entidades](https://github.com/devel-ez/PurchaseOrder/blob/master/po.png)
 
-![Preenchimento](https://github.com/devel-ez/CrontactsPerWorker/blob/master/preenchimento%20esperado.png)
+![Preenchimento](https://github.com/devel-ez/PurchaseOrder/blob/master/pou.jpg)
